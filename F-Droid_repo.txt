@@ -1,0 +1,432 @@
+2br-2b’s Repo
+
+https://raw.githubusercontent.com/2br-2b/Fdroid-repo/master/fdroid/repo/
+Alefvanoon’s Repo
+
+https://repo.alefvanoon.xyz/fdroid/repo/
+Anonymous Messenger
+
+https://anonymousmessenger.ly/fdroid/repo
+app.usb0.net 7
+
+https://app.usb0.net/repo
+Beowulf F-Droid Repo
+
+https://fdroid.beocode.eu/fdroid/repo/
+Bitwarden
+
+https://mobileapp.bitwarden.com/fdroid/repo
+Briar
+
+https://briarproject.org/fdroid/repo
+Bromite
+
+https://fdroid.bromite.org/fdroid/repo
+c:geo
+
+https://fdroid.cgeo.org
+CCC
+
+https://fdroid.gitlab.io/ccc/fdroid/repo
+
+Cisti.org 65
+
+https://fdroid.cisti.org/repo
+Collabora Office
+
+https://www.collaboraoffice.com/downloads/fdroid/repo
+Corona Cont
+act Tracing Germany
+
+https://bubu1.eu/cctg/fdroid/repo
+Cryptom
+ator
+
+https://static.cryptomator.org/android/fdroid/repo
+Culture4life
+
+https://lucaapp.gitlab.io/fdroid-repository/fdroid/repo
+DivestOS Official
+
+https://divestos.org/fdroid/official/
+DivestOS Unofficial
+
+https://divestos.org/fdroid/unofficial/
+F-Droid (official)
+
+https://f-droid.org/repo
+F-
+Droid Classic
+
+https://bubu1.eu/fdroidclassic/fdroid/repo
+F-Droid client with the classic UI.
+
+https://srv.tt-rss.org/fdroid/repo
+Fedilab Apps
+
+https://fdroid.fedilab.app/rep
+Firefox F-Droid repo (unofficial)
+
+https://rfc2822.gitlab.io/fdroid-firefox/fdroid/repo
+Five Prayers Repo
+
+https://raw.githubusercontent.com/Five-Prayers/fdroid-repo-stable/main/fdroid/repo
+FluffyChat
+
+https://fdroid.fluffychat.im
+Frostnerd’s Nebulo
+
+https://fdroid.frostnerd.com/fdroid/repo
+Funkwhale
+
+https://fdroid.funkwhale.audio
+GitJournal
+
+https://gitjournal.io/fdroid/repo/
+gsantner (public)
+
+https://gsantner.gitlab.io/fdroid/repo
+Guardian Project Official Releases (included)
+
+https://guardianproject.info/fdroid/repo 1.4k
+https://s3.amazonaws.com/guardianproject/fdroid/repo 321 (AWS mirror)
+http://bdf2wcxujkg6qqff.onion/fdroid/repo 308
+i2P
+
+https://f-droid.i2p.io/repo 129
+
+I2P is an anonymous network, exposing a simple layer that applications can use to anonymously and securely send messages to each other.
+Info: https://geti2p.net 234
+Repo info: https://f-droid.i2p.io 279
+
+https://jhass.github.io/insporation/fdroid/repo 2
+
+A native diaspora* 2 client powered by Flutter.
+Info: GitHub - jhass/insporation: Flutter based client for diaspora* 3
+IzzyOnDroid
+
+https://apt.izzysoft.de/fdroid/repo 5.2k
+
+Applications in this repository are official binaries built by the original application developers, taken directly from the releases in their repositories (mostly on GitHub). Also contains apps that are linked against google-play services.
+
+Info: App Repository Info - IzzyOnDroid 2.1k
+Background info: Some background Info - IzzyOnDroid Android App Repository 680
+Number of apps: 730+ 976
+Julian Andres Klode / DNS66
+
+https://jak-linux.org/fdroid/repo/ 262
+
+Julian Andres Klode is the maintainer of DNS66.
+DNS66 is a DNS-based Host Blocker (and lightweight ad blocker) for Android, releases are also available on the main F-Droid repository 68
+kaffeemitkoffein.de 514
+
+https://kaffeemitkoffein.de/fdroid/repo 702
+
+Number of apps: 4 569
+Kali NetHunter App Store
+
+https://store.nethunter.com/repo 2.8k
+
+Applications for penetration testing and forensics.
+Info: https://store.nethunter.com 1.0k
+Number of apps: 42 319
+KDE F-Droid Release builds
+
+https://cdn.kde.org/android/stable-releases/fdroid/repo/ 421
+
+KDE’s F-Droid Release Repository contains builds of stable packages of our applications.
+kuschku (Quasseldroid)
+
+https://repo.kuschku.de/fdroid/repo/ 41
+
+Quassel is a distributed, decentralized IRC client
+Info: Downloads | Quasseldroid IRC Client 11
+LibRetro
+
+https://fdroid.libretro.com/repo 8
+
+Builds of RetroArch 2, a frontend for emulators, game engines and media players.
+Info: https://libretro.com 1
+Number of apps: 3 (RetroArch, RetroArch 32-bit, RetroArch AArch64)
+ltheinrich
+
+https://fdroid.ltheinrich.de/fdroid/repo/ 2
+
+Info: ltheinrich (Lennart Heinrich) / Repositories · GitHub 3
+Ltt.rs
+
+https://ltt.rs/fdroid/repo 312
+
+Ltt.rs is an eas to use Email client, releases are also avaible on the main F-Droid repository 107
+Maxxis F-Droid Repo
+
+https://pili.qi0.de/fdroid/repo/ 267
+
+Conversations, Signal u. a.
+Metatrans Apps
+
+https://metatransapps.com/fdroid/repo 108
+
+While the apps in this repository are not open source yet, they are free for use.
+Number of apps: 9 146
+microG
+
+https://microg.org/fdroid/repo 2.1k
+
+A free-as-in-freedom re-implementation of Google’s proprietary Android user space apps and libraries.
+Info: https://microg.org/ 867
+Repo info: F-Droid repository - microG Project 749
+Number of apps: 4
+MM20 Apps
+
+https://raw.githubusercontent.com/MM2-0/fdroid/main/fdroid/repo/ 3
+
+Info: GitHub - MM2-0/Kvaesitso: A FOSS Android launcher 6
+Molly
+
+https://molly.im/fdroid/repo/ 643
+
+A fork of Signal 497 with passphrase lock and anti-forensic features.
+Info: https://molly.im 698
+Repo info: Molly F-Droid Repo 222
+Molly-FOSS
+
+https://molly.im/fdroid/foss/fdroid/repo/ 235
+
+FOSS build of Molly without proprietary dependencies. Compatible with microG.
+Info: https://molly.im 698
+Repo info: Molly F-Droid Repo 222
+Monerujo
+
+https://f-droid.monerujo.io/fdroid/repo/ 331
+
+Monerujo is the first app for managing and using Monero wallets on Android.
+Info: https://www.monerujo.io 85
+Repo info: https://f-droid.monerujo.io 59
+Nailyk
+
+https://releases.nailyk.fr/repo/ 356
+
+Number of apps: 6 (mGerrit, OpenLauncher, Tusky, VLC, VTS for Android)
+Nanolx
+
+https://nanolx.org/fdroid/repo 1.2k
+
+Companion repository for NanoDroid 440.
+Repo info: https://www.nanolx.org/fdroid/repo 248
+Number of apps: 2 (patched Play Store 282, MPV 79)
+Netsyms Technologies
+
+https://repo.netsyms.com/fdroid/repo 678
+
+Collection of Netsyms 329 Android applications or users withour access to Google Play.
+Repo info: https://repo.netsyms.com 282
+Number of apps: 5 (NotePost 40, TerranQuest 62, PackageHelper 34, Netsyms 41, Invoice Ninja 46)
+NewPipe
+
+https://archive.newpipe.net/fdroid/repo/ 1.2k
+
+The lightweight YouTube experience for Android
+Website: https://newpipe.net 170
+NoNonsenseApps
+
+https://repo.nononsenseapps.com/fdroid/repo 4
+
+If anyone wants to test it early, which you can add custom F-Droid repository
+You can safely install this version along side regular F-Droid version - but not the Play store version (though if you have that, then you’ll get the update shortly anyway)
+
+Repo info: Space Cowboy / Feeder · GitLab 46
+
+Number of apps: 1 (Feeder)
+Novy Software’s Applications
+
+https://fdroid.novy.software/repo/ 4
+GitHub
+NovySoftware 4
+
+Small group of Hungarian programmers. NovySoftware has 6 repositories available. Follow their code on GitHub.
+Nucleus’s F-Droid repo
+
+https://raw.githubusercontent.com/nucleus-ffm/Nucleus-F-Droid-Repo/master/fdroid/repo 16
+Number of apps: 1 (FOSS Warn)
+More info 32
+Obfusk’s F-Droid repo
+
+https://obfusk.ch/fdroid/repo 49
+
+F-Droid repo from Obfusk 14 with both versions of Jiten Japanese Dictionary and the game Sokoban(g)
+PartidoPirata
+
+https://fdroid.partidopirata.com.ar/fdroid/repo/ 507
+
+Apps: Signal, Wire, OpenArchive, HabitApp
+Patched Applications (Langis)
+
+https://thecapslock.gitlab.io/fdroid-patched-apps/fdroid/repo/ 529
+
+Patched Applications : original applications, modified for many purpose as better compatibility, better privacy
+Contains Langis (Signal fork)
+Number of apps: 1
+PeterCxy (Shelter)
+
+https://fdroid.typeblog.net/ 68
+
+Shelter is a Free and Open-Source (FOSS) app that leverages the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.
+
+Info: https://gitea.angry.im/PeterCxy/Shelter/ 60
+pilight
+
+https://android.pilight.org 288
+
+Official repository of pilight - open source domotica solution.
+Info: https://www.pilight.org 182
+Number of apps: 3 (pilight, illumina 51)
+PurpleI2P
+
+https://fdroid.i2pd.xyz/fdroid/repo 3
+
+I2P (Invisible Internet Protocol) is a universal anonymous network layer.
+All communications over I2P are anonymous and end-to-end encrypted, participants don’t reveal their real IP addresses.
+I2P client is a software used for building and using anonymous I2P networks.
+Info: GitHub - PurpleI2P/i2pd-android: i2pd for Android
+rami.io 161
+
+https://fdroid.rami.io/fdroid/repo/ 3
+
+Apps built by rami.io 161 Software Development.
+Info: https://fdroid.rami.io/ 110
+Number of apps: 2 (Vertretungsplan App, LS Vertretungsplan)
+RWTH Aachen University
+
+https://app.rwth-aachen.de/fdroid 65
+
+The FDroid repository for apps of RWTH Aachen University.
+Repo info: https://app.rwth-aachen.de/fdroid 77
+Samourai Wallet
+
+https://repo.samourai.io/fdroid/repo 32
+
+Repository for this bitcoin wallet app.
+Info: Samourai Wallet - F-Droid Instructions 19
+Seabear
+
+https://fdroid.a3.pm/seabear/repo/ 1.2k
+
+Modular Client Mod for Discord’s Android app.
+Info: https://gitdab.com/distok/cutthecord 1.1k
+Number of apps: 15 different flavors of one app
+Session
+
+https://fdroid.getsession.org/fdroid/repo 194
+
+Info: https://getsession.org 184
+SilentDragonAndroid
+
+SilentDragonAndroid 59 is the frontend remote to your Hush desktop wallet. If you need or want extreme privacy with a large AnonSet, also known as “Storage of Privacy”, then come and check our project out.
+Simlar
+
+https://raw.githubusercontent.com/simlar/simlar-fdroid-repo/master/fdroid/repo 357
+
+Simlar 122 is a cross platform VoIP App aiming to make encrypted calls easy. Based on the established end-to-end encryption protocol ZRTP.
+SpiritCroc’s Apps
+
+https://s2.spiritcroc.de/fdroid/repo 65
+
+This is SpiritCroc’s personal F-Droid repository.
+Repo info: F-Droid repository | SpiritCroc.de 58
+Number of apps: 1 (SchildiChat)
+StoryMaker
+
+https://s3.amazonaws.com/storymaker/fdroid/repo 1
+
+StoryMaker enables aspiring journalists all over the world to safely produce and publish professional-grade news with their phone.
+Info: | StoryMaker.org 3
+Stuff provided by haagch
+
+https://haagch.frickel.club/files/fdroid/repo/ 794
+
+Colorful little collection of mostly non-FOSS apps
+Info: https://haagch.frickel.club 919
+Number of apps: 19
+Submarine
+
+https://submarine.strangled.net/fdroid/repo/ 180
+
+Number of apps: 2 (Launchpad Daemon, Protox)
+Tagesschau
+
+https://service.tagesschau.de/app/repo 397
+
+Tagesschau 63 is a german public-service TV news featuring their own F-Droid repo, which contains their official app 7 which as of today sadly isn’t free and open source. The free app Hamburger 30 from the F-Droid default repo is another app for Tagesschau with other functionality and under the terms of the Affero GPL.
+The Calyx Institute F-Droid repo (testing)
+
+https://calyxos.gitlab.io/calyx-fdroid-repo/fdroid/repo 577
+
+This is a copy of the Calyx Institute F-Droid repository for test purposes. It is a repository of apps to be used with CalyxOS 273.
+Number of apps: 5 (CalyxOS Chromium, Google Camera/Maps, microG Services Core, Signal)
+TwinHelix - Signal-FOSS
+
+https://fdroid.twinhelix.com/fdroid/repo 310
+
+Signal-FOSS 262 is an open source degoogled fork of Signal for Android that uses OpenStreetMaps for maps and a websocket connection to the Signal server.
+Umbrella
+
+https://secfirst.org/fdroid/repo 988
+
+Digital and physical security for people at risk.
+Info: https://secfirst.org 650
+ungoogled-chromium-android
+
+https://www.droidware.info/fdroid/repo 1.3k
+
+Binary repository of ungoogled-chromium-android 599, a lightweight approach to removing Google web service dependency. Only arm64 binaries are hosted.
+Number of apps: 2 (Ungoogled Chromium, Ungoogled System Webview)
+Unofficial ProtonMail repository
+
+https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo/ 960
+
+ProtonMail 42 is secure email based in Switzerland. This is an unofficial ProtonMail F-Droid repository. The APKs are from ProtonApps 245. Note, the packages are renamed to include version nubmers. Older packages came from APKmirror and the packages have been renamed to get under the 100 character limit in Repomaker 21.
+Info: /r/ProtonMail/comments/8na7jv/unofficial_protonmail_fdroid_repository 189
+Repo info: https://unofficial-protonmail-repository.gitlab.io/unofficial-protonmail-repository/fdroid/repo 276
+Unofficial Anime/Manga FDroid Repository
+
+https://animanga.efreakbnc.net/fdroid/repo 439
+
+Most (but not all) of these apps are open source and ad-free; not all have antifeatures listed (see the notes in the metadata). Descriptions are not kept up to date.
+Apps include: Meow 92, Nekos 49 (catgirls client for nekos.moe 33), Kotatsu 32, Cylon u87’s (clsoed source) apps 30, an!me 32, Anime Watcher 56, Open ComicReader 24, TaiYakiAnime 31.
+Repo info: https://animanga.efreakbnc.net/ 257
+Unofficial Tachiyomi
+
+https://tachi.efreakbnc.net/fdroid/repo 476
+
+Manga reader Tachiyomi 77, its added-features forks 43, and extensions. These apps are all open source (released by or forked from Tachiyomi).
+Apps (excluding extensions) listed as of 2020-06-25: Tachiyomi Release, Tachiyomi debug version (updated irregularly), Neko 25, TachiyomiJ2K 28, TachiyomiAZ 14, TachiyomiSY 19, TachiyomiEH 10
+There are also per-language extension repos available; visit the repo page for more info.
+Repo info: https://tachi.efreakbnc.net 135, GitHub - Efreak/tachiyomi-extensions: Tachiyomi Extensions FDroid Repo 141
+VideLibri - Library app
+
+https://fdroid.videlibri.de/repo 309
+
+Repo for the library app VideLibri. VideLibri lists the books you have lend from a public library and lets you search the library catalog from your local device. It has all the usual features of an library OPAC, i.e. viewing, renewing, searching and ordering books. It also renews all due books automatically and can do other things only a locally running app can do, like keeping a history of all ever lend books across multiple libraries. It is the world’s first library app. So far VideLibri has been tested with 200 libraries successfully, but it was designed to allow every user to adds its own library without requiring any/much programming knowledge.
+Info: https://www.videlibri.de 152
+Wind Offline
+
+https://guardianproject-wind.s3.amazonaws.com/fdroid/repo 323
+
+This is a collection of apps that work offline or with limited internet.
+Info: https://secondwind.guardianproject.info 371
+Number of apps: 40+
+Xarantolus
+
+https://raw.githubusercontent.com/xarantolus/fdroid/main/fdroid/repo 5
+
+Info: xarantolus (Philipp) · GitHub 1
+Zevvle
+
+https://fdroid.zevvle.com 196
+Provides the UK mobile network’s app.
+Zeronet
+
+https://f-droid.mkg20001.io/repos/jVVkbOD2it_bf_UxFIGGh1qa950KrUsq/repo 13
+ZeroNet Android app, nightlies and stable releases
+
